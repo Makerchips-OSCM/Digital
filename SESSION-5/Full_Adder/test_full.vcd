@@ -1,0 +1,59 @@
+$date
+	Tue Aug 20 20:52:48 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module full_tb $end
+$var wire 1 ! s $end
+$var wire 1 " co $end
+$var reg 1 # a $end
+$var reg 1 $ b $end
+$var reg 1 % ci $end
+$scope module dut $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 % ci $end
+$var wire 1 " co $end
+$var wire 1 & s1 $end
+$var wire 1 ! s $end
+$var wire 1 ' k $end
+$var wire 1 ( c $end
+$scope module ha1 $end
+$var wire 1 # a $end
+$var wire 1 $ b $end
+$var wire 1 ' cout $end
+$var wire 1 & sout $end
+$upscope $end
+$scope module ha2 $end
+$var wire 1 & a $end
+$var wire 1 % b $end
+$var wire 1 ( cout $end
+$var wire 1 ! sout $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0(
+x'
+x&
+0%
+x$
+x#
+x"
+x!
+$end
+#5
+1#
+#10
+0!
+1"
+0&
+1'
+1$
+#20
